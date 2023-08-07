@@ -45,3 +45,7 @@ Views foram criadas para auxiliar na obtenção de dados de entrada e saída de 
 - Recomenda-se transferir a pasta do projeto para a área de trabalho para garantir o correto funcionamento das rotas de busca e salvamento de arquivos PDF.
 - Ao gerar o arquivo PDF através da aplicação, ele será automaticamente salvo em uma pasta dentro do projeto chamada "RelatoriosPdf".
 - É necessário alterar a linha de conexão no arquivo "appsettings.json" para configurar corretamente a connection string do banco de dados.
+=======
+# MStarSupplyControl
+Projeto que simula uma aplicação de gerenciamento de uma logística
+>>>>>>> ea8e69c2660d89ba20c6735134d536b94808b69b
