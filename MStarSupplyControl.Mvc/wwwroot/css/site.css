@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=REM:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.dataTables_filter{
+    margin-bottom: 0.60rem;
+}
+.alinhamentoTable{
+    display: flex;
+    justify-content:flex-start;
+}
+.buscaRelatorioGrafico {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+.logoEntradaAjustes {
+    display: flex;
+    flex-direction:column;
+}
+.gerenciamentoAjustes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+    margin-top: 10%;
+}
+.displayCadastro {
+    display: flex;
+    justify-content: center;
+    color: #213140;
+}
+.fontLg {
+    font-family: 'REM', sans-serif;
+    color: #213140;
+    font-weight: bold;
+    font-size: 22px;
+}
+.fontStyle {
+    font-family: 'REM', sans-serif;
+    color: #213140;
+    font-weight: bold;
+}
+.fontStyleHome {
+    font-family: 'Alata', sans-serif;
+    color: black;
+    font-weight:bold;
+}
+.formularioAltura {
+    margin-top: 8%;
+}
+
+.styleBotaoNovo{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-bottom: 8%;
+}
+.styleMenu {
+    border: 3px solid #8DC5FE;
+}
+.itensMenuAjuste {
+    display: flex;
+    justify-content: space-around;
+}
+.inputAjustes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 2%;
+}
+.inputStyle {
+    border: 3px solid #8DC5FE;
+}
+.homeAjustes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+}
+.close-alert {
+    position: absolute;
+    right: -10px;
+    top: -15px;
+    border-radius: 15px;
+    width: 30px;
+    height: 31px;
+}
+.error {
+    position: absolute;
+    width: 30px;
+}
+
+.field-validation-error {
+    color: #f17373;
+    font-size: 14px;
+    font-family: 'REM', sans-serif;
+    border-radius: 6px;
+}
+.posicaoBotao {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3%;
+    margin-right: 16%;
+}
+.botaoRelatorioPdf {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 2%;
+}
+.botaoStyle {
+    width: 121px;
+    height: 46px;
+    border-radius: 5px;
+    border: 3px solid #8DC5FE;
+    font-family: 'REM', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #213140;
+    text-decoration:auto none;
+}
+
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    position: absolute;
+    width: 100%;
+    height: 150%;
+}

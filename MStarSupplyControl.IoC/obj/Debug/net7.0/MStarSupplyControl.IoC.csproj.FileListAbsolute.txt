@@ -1,0 +1,30 @@
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.IoC.deps.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.IoC.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.IoC.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.Domain.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.Domain.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.csproj.AssemblyReference.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.AssemblyInfoInputs.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.AssemblyInfo.cs
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.csproj.CoreCompileInputs.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.csproj.CopyComplete
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\refint\MStarSupplyControl.IoC.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\ref\MStarSupplyControl.IoC.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.IoC.deps.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.IoC.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.IoC.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.Domain.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\bin\Debug\net7.0\MStarSupplyControl.Domain.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.csproj.AssemblyReference.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.AssemblyInfoInputs.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.AssemblyInfo.cs
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.csproj.CoreCompileInputs.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.csproj.CopyComplete
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\refint\MStarSupplyControl.IoC.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\MStarSupplyControl.IoC.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.IoC\obj\Debug\net7.0\ref\MStarSupplyControl.IoC.dll

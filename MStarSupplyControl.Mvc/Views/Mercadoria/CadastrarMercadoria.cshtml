@@ -1,0 +1,39 @@
+﻿@model MStarSupplyControl.IoC.DTOs.MercadoriaDTO
+@{
+    ViewData["Title"] = "Formulario de inserção de mercadoria";
+}
+
+<form asp-controller="Mercadoria" asp-action="CadastrarMercadoria" method="post">
+    <div class="displayCadastro">
+        <h3 class="fontStyle">Cadastrar Mercadoria</h3>
+    </div>
+    <div class="formularioAltura">
+    <div class="form-row inputAjustes">
+        <div class="form-group col-md-4">
+            <label class="fontStyle" for="Nome">Mercadoria *</label>
+            <input type="text" asp-for="Nome" class="form-control inputStyle">
+            @Html.ValidationMessageFor(x => x.Nome)
+        </div>
+        <div class="form-group col-md-4">
+            <label class="fontStyle" for="Fabricante">Fabricante *</label>
+            <input type="text" asp-for="Fabricante" class="form-control inputStyle">
+            @Html.ValidationMessageFor(x => x.Fabricante)
+        </div>
+        </div>
+    <div class="form-row inputAjustes">
+        <div class="form-group col-md-4">
+            <label class="fontStyle" for="Tipo">Tipo *</label>
+            <input type="text" asp-for="Tipo" class="form-control inputStyle">
+            @Html.ValidationMessageFor(x => x.Tipo)
+        </div>
+        <div class="form-group col-md-4">
+            <label class="fontStyle" for="Descricao">Descrição *</label>
+            <input type="text" asp-for="Descricao" class="form-control inputStyle">
+            @Html.ValidationMessageFor(x => x.Descricao)
+        </div>
+    </div>
+    </div>
+    <div class="posicaoBotao">
+    <button type="submit" class="botaoStyle">Cadastrar</button>
+    </div>
+</form>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MStarSupplyControl.Mvc.props" />
+</Project>

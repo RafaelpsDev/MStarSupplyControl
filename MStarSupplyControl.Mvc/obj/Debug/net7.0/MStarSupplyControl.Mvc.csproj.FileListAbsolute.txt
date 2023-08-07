@@ -1,0 +1,120 @@
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.csproj.AssemblyReference.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.AssemblyInfoInputs.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.AssemblyInfo.cs
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.RazorAssemblyInfo.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.RazorAssemblyInfo.cs
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\appsettings.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.staticwebassets.runtime.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.exe
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.deps.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.runtimeconfig.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Dapper.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Application.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Domain.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Infrastructure.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.IoC.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Application.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Infrastructure.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.IoC.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Domain.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.MStarSupplyControl.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.build.MStarSupplyControl.Mvc.props
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MStarSupplyControl.Mvc.props
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MStarSupplyControl.Mvc.props
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\bundle\MStarSupplyControl.Mvc.styles.css
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\projectbundle\MStarSupplyControl.Mvc.bundle.scp.css
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.csproj.CopyComplete
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\refint\MStarSupplyControl.Mvc.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.pdb
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.genruntimeconfig.cache
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\ref\MStarSupplyControl.Mvc.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Nancy.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\appsettings.Development.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\appsettings.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.staticwebassets.runtime.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.exe
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.deps.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.runtimeconfig.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Mvc.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Dapper.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Nancy.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Application.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Domain.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Infrastructure.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.IoC.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Application.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Infrastructure.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.IoC.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\MStarSupplyControl.Domain.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.csproj.AssemblyReference.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.AssemblyInfoInputs.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.AssemblyInfo.cs
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.csproj.CoreCompileInputs.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.RazorAssemblyInfo.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.RazorAssemblyInfo.cs
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.MStarSupplyControl.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.build.MStarSupplyControl.Mvc.props
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MStarSupplyControl.Mvc.props
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MStarSupplyControl.Mvc.props
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets.build.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\staticwebassets.development.json
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\bundle\MStarSupplyControl.Mvc.styles.css
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\projectbundle\MStarSupplyControl.Mvc.bundle.scp.css
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.csproj.CopyComplete
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\refint\MStarSupplyControl.Mvc.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.pdb
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\MStarSupplyControl.Mvc.genruntimeconfig.cache
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\ref\MStarSupplyControl.Mvc.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\iTextSharp.LGPLv2.Core.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\SkiaSharp.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\DevLabs\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\notec\OneDrive\Área de Trabalho\MStarSupplyControl\MStarSupplyControl.Mvc\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css

@@ -1,0 +1,113 @@
+﻿@model List<string>
+
+@{
+    ViewBag.Title = "Relatório de Entradas e Saídas de Mercadorias";
+}
+
+<display-4 class="fontStyle displayCadastro" style="text-decoration:none">Relatório de Entradas e Saídas de Mercadorias</display-4>
+
+@using (Html.BeginForm("GraficoEntradaESaidaMensal", "Relatorio", FormMethod.Get))
+{
+
+    <div class="form-row inputAjustes">
+        <select id="mercadoria" name="Mercadoria" class="form-select buscaRelatorioGrafico inputStyle"></select>
+        <button type="submit" class="botaoStyle">Gerar</button>
+    </div>
+}
+
+<div style="width: 100%; height: 0; padding-bottom: 50%; position: relative;">
+    <canvas id="graficoEntradaSaidaMensal" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Recebendo os dados da ViewBag
+    var dadosMensal = @Html.Raw(ViewBag.Dados);
+
+    //Fuñção para criar o gráfico
+    function criarGrafico() {
+        var ctx = document.getElementById('graficoEntradaSaidaMensal').getContext('2d');
+
+        // Agrupando os valores de entrada e saída por mês
+        var dadosAgrupados = [];
+        for (var i = 0; i < dadosMensal.length; i++) {
+            var item = dadosMensal[i];
+            var mes = item.Mes; 
+            var index = dadosAgrupados.findIndex(dado => dado.mes === mes);
+
+            if (index === -1) {
+                dadosAgrupados.push({
+                    mes: mes,
+                    entrada: item.TotalEntrada,
+                    saida: item.TotalSaida
+                });
+            } else {
+                dadosAgrupados[index].entrada += item.TotalEntrada;
+                dadosAgrupados[index].saida += item.TotalSaida;
+            }
+        }
+
+        var rotulosMeses = dadosAgrupados.map(item => item.mes);
+
+        var dados = {
+            labels: rotulosMeses,
+            datasets: [
+                {
+                    label: 'Entrada',
+                    data: dadosAgrupados.map(item => item.entrada),
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Saída',
+                    data: dadosAgrupados.map(item => item.saida),
+                    backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                    borderColor: 'rgba(255, 99, 132, 1)',
+                    borderWidth: 1
+                }
+            ]
+        };
+
+        var options = {
+            responsive: true,
+            scales: {
+                x: {
+                    type: 'category',
+                    display: true,
+                    title: {
+                        display: true,
+                        text: 'Mês'
+                    }
+                },
+                y: {
+                    display: true,
+                    title: {
+                        display: true,
+                        text: 'Quantidade'
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
+            }
+        };
+
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: dados,
+            options: options
+        });
+    }
+
+    // Cria o gráfico quando a página carrega (DOMContentLoaded)
+    document.addEventListener("DOMContentLoaded", function (event) {
+        criarGrafico();
+    });
+</script>
+<div class="botaoRelatorioPdf">
+    <display-4 class="fontStyle">Clique no icone para importar relatório mensal de entrada e saída de mercadorias</display-4>
+</div>
